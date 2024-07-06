@@ -10,4 +10,4 @@ This project was created using javascript with a focus on DOM manipulation.
 
 [The Odin Project](https://www.theodinproject.com/courses/foundations/lessons/etch-a-sketch-project)
 
-[Live Demo](https://alex-lvl.github.io/etch-a-sketch/)
+[Live Demo](https://prosperitty.github.io/etch-a-sketch/)
